@@ -30,18 +30,20 @@ This tracker covers all Cloudspire AI features:
 
 > For Cloudspire Voice issues (PBX, call routing, phone provisioning), use [cloudspire-voice](https://github.com/onCloud-Cloudspire/cloudspire-voice).
 
+## Issue Types
+
+Issues are categorized using GitHub's built-in issue types: **Feature**, **Bug**, or **Task**.
+
 ## Labels
 
 | Label | Meaning |
 |---|---|
-| `bug` | Something isn't working correctly |
-| `enhancement` | New feature or improvement request |
 | `roadmap` | Committed to the product roadmap |
 | `under-review` | Submitted but not yet committed to roadmap |
 | `critical` | System down or data loss |
-| `high` / `priority-high` | Major issue, no workaround |
-| `medium` / `priority-medium` | Partial issue, workaround exists |
-| `low` / `priority-low` | Minor or cosmetic |
+| `high` | Major issue, no workaround |
+| `medium` | Partial issue, workaround exists |
+| `low` | Minor or cosmetic |
 | `docs` | Documentation |
 | `resolved` | Fixed, pending verification |
 | `duplicate` | Already reported |
